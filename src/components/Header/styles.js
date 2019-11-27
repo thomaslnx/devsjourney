@@ -7,6 +7,7 @@ export const Header = styled.div`
   position: fixed;
   display: flex;
   flex-direction: row;
+  border-bottom: 1px solid #333;
 `;
 
 export const Logo = styled.image`
@@ -18,7 +19,7 @@ export const Logo = styled.image`
 export const Menu = styled.div`
   position: realtive;
   margin-left: 0px;
-  margin-top: 20px;
+  margin-top: 0px;
   width: 100%;
   display: flex;
   justify-content: space-around;
