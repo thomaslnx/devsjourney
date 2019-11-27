@@ -14,6 +14,8 @@ function HeaderHome() {
           <p> HOME </p>
           <p> O QUE POSSO APRENDER? </p>
           <p> ALCANÇAR O SUCESSO </p>
+
+          <button>DESCUBRA SUA VOCAÇÃO</button>
         </Menu>
       </Header>
     </>
